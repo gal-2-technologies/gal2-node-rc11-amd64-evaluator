@@ -77,7 +77,7 @@ Download
 
 Download both release assets from:
 
-https://github.com/gal-2-technologies/gal2-node-rc11-amd64-evaluator/releases/latest
+https://github.com/gal-2-technologies/gal2-node-rc11-amd64-evaluator/releases/tag/v1.0.0-rc11-amd64-evaluator
 
 Required downloads:
 
