@@ -4,6 +4,19 @@ Public release for independent technical evaluation of GAL-2 Node v1.0.0-rc11 on
 
 This repository distributes one frozen evaluator package through GitHub Releases. It does not contain the GAL-2 Protected Core or any GAL-2 API credential.
 
+## Security and deployment handoff
+
+The release-specific security, provenance, deployment, network, evaluation,
+and cleanup handoff is available in both reviewable and printable forms.
+The PDF is the printable rendering of the Markdown handoff:
+
+- [Markdown handoff](docs/RC11_AMD64_SECURITY_AND_DEPLOYMENT_HANDOFF.md)
+- [PDF handoff](docs/RC11_AMD64_SECURITY_AND_DEPLOYMENT_HANDOFF.pdf)
+- [SHA-256 manifest](docs/RC11_AMD64_SECURITY_AND_DEPLOYMENT_HANDOFF_SHA256SUMS.txt)
+
+Immutable publication commit:
+[`4100983649b40c622bfe4e5133e856ce56608736`](https://github.com/gal-2-technologies/gal2-node-rc11-amd64-evaluator/commit/4100983649b40c622bfe4e5133e856ce56608736)
+
 Public distribution and API access
 
 The evaluator package is publicly downloadable. Downloading the package does not include or grant access to the GAL-2 Protected Core or GAL-2 API.
